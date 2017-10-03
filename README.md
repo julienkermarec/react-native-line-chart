@@ -1,6 +1,6 @@
 # react-native-line-chart
 
-![Screenshot](https://raw.githubusercontent.com/julienkermarec/react-native-line-chart/master/screenshots/smfull.png)
+![Screenshot](https://raw.githubusercontent.com/julienkermarec/react-native-line-chart/master/screenshots/full.png)
 
 I use SVG library (react-native-svg) but with Expo, this is pre-installed.
 https://github.com/react-native-community/react-native-svg
@@ -99,6 +99,8 @@ class ScreenBarChart extends Component {
 - [X] Add horizontal axis (min/max)
 - [ ] Add line char to npm
 - [ ] Horizontal scroll for infinite line chart
+
+![Screenshot](https://raw.githubusercontent.com/julienkermarec/react-native-line-chart/master/screenshots/phone.png)
 
 ## Info/Support
 
