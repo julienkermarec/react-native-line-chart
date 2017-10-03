@@ -8,6 +8,7 @@ https://github.com/react-native-community/react-native-svg
 ## Demo
 
 https://expo.io/@julienkermarec/react-native-line-chart
+
 ![Screenshot](https://raw.githubusercontent.com/julienkermarec/react-native-line-chart/master/screenshots/expo.png)
 
 ## Tutoriel
@@ -22,8 +23,8 @@ You can CLICK on a value to see details
 
 ## Usage
 ```javascript
-import React, { StyleSheet, View, Component } from 'react-native';
-import BarChart from '../BarChart';
+import { View, Text, ScrollView,StyleSheet, Dimensions } from 'react-native'
+import LineChart from '../LineChart';
 
 
 const colors = {
